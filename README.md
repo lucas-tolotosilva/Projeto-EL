@@ -1,6 +1,6 @@
 # Projeto-EL
 Project built in Explorer Lab from Rocketseat
-<hr> <br>
+<hr> 
 <span> Technologies used </span><br>
 🚩 HTML <br>
 🚩 CSS <br>
