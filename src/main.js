@@ -17,3 +17,11 @@ function setCardType(type) {
 }
 
 setCardType("default")
+
+//security code
+const securityCode = document.querySelector("#security-code")
+const securityCodePattern = {
+  mask: "0000",
+}
+
+const securityCodeMasked = Imask(securityCode, securityCodePattern)
